@@ -4,8 +4,7 @@ Para realizar este projeto foi utilizado o Typescript com o React.
 
 Para manter uma padronização e a qualidade do código foi utilizado o eslint/prettier.
 
-Para executar o projeto
+##Executando o projeto
 
-  -Para instalar os packages do projeto execute: yarn
-  
-  -Para rodar a aplicação execute: yarn start
+  1.Para instalar os packages do projeto execute: yarn
+  2.Para rodar a aplicação execute: yarn start
