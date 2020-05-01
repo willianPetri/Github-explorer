@@ -7,5 +7,4 @@ Para manter uma padronização e a qualidade do código foi utilizado o eslint/p
 Para executar o projeto
 
   -Para instalar os packages do projeto execute: yarn
-  
   -Para rodar a aplicação execute: yarn start
